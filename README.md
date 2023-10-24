@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Web Developer,MERN,Competitive Programming**
 
-- 📫 How to reach me **navoditbly5@gmail.com**
+- 📫 How to reach me **WorkWithNavodit@gmail.com**
 
 - ⚡ Fun fact **Sugar is Sweet same as you**
 
